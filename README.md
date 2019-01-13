@@ -1,0 +1,2 @@
+# startup.ideas
+startup ideas
